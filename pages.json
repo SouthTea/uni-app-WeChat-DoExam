@@ -1,0 +1,42 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "不是吧这都要卷？"
+				// "enablePullDownRefresh": true//下拉刷新
+				// "navigationBarBackgroundColor":"#0066CC"
+				
+			}
+		}
+	    ,{
+            "path" : "pages/exam/exam",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/collect/collect",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "不是吧这都要卷？",
+		"navigationBarBackgroundColor": "#fff",
+		"backgroundColor": "#fff",
+		"navigationStyle":"custom"
+		// "mp-weixin":{
+		// 	"navigationStyle":"custom"
+			
+		// }
+	}
+}
