@@ -35,12 +35,12 @@ A do questions  mini program for WeChat based on Uni-App
 
 预览，请用微信扫码：
 
-![](E:\文档\21移动互联2\项目\刷题\preview\er.jpg)
+![](./preview/er.jpg)
 
 图片预览：
 
-![Exam](.\preview\2.png)
+![Exam](./preview/2.png)
 
-![Exam2](.\preview\3.png)
+![Exam2](./preview/3.png)
 
-![Collext](.\preview\4.png)
+![Collext](./preview/4.png)
