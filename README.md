@@ -35,12 +35,13 @@ A do questions  mini program for WeChat based on Uni-App
 
 预览，请用微信扫码：
 
-![](./preview/er.jpg)
+![](https://od.media.aiepoch.cn/blog/2022/06/202206274442_6579.jpg)
 
 图片预览：
+![Home](https://od.media.aiepoch.cn/blog/2022/06/202206271322_7487.png)
 
-![Exam](./preview/2.png)
+![Exam](https://od.media.aiepoch.cn/blog/2022/06/202206276894_7434.png)
 
-![Exam2](./preview/3.png)
+![Exam2](https://od.media.aiepoch.cn/blog/2022/06/202206276237_7895.png)
 
-![Collext](./preview/4.png)
+![Collext](https://od.media.aiepoch.cn/blog/2022/06/202206276912_5320.png)

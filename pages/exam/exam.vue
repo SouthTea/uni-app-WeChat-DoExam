@@ -444,14 +444,17 @@
 				}
 			},
 			tolast() {
+				this.showanswer = false;
 				this.topic = topics[0];
 				this.options_sel = options_sels[0];
 				this.gettopics(this.topic.id)
 			},
 			tonext() {
+				this.showanswer = false;
 				this.topic = topics[2];
 				this.options_sel = options_sels[2];
 				this.gettopics(this.topic.id)
+				
 			},
 			option_sel(i) {
 				if (this.mode == 1 && this.status == 1) return;
