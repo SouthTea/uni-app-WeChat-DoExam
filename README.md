@@ -44,4 +44,4 @@ A do questions  mini program for WeChat based on Uni-App
 
 ![Exam2](https://od.media.aiepoch.cn/blog/2022/06/202206276237_7895.png)
 
-![Collext](https://od.media.aiepoch.cn/blog/2022/06/202206276912_5320.png)
+![Collext](https://od.media.aiepoch.cn/blog/2022/06/202206276912_5320.png) 
